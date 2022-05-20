@@ -21,6 +21,7 @@ int main()
     x.setvalue();
     cout<<"mean value ="<<mean(x)<<"\n";
     return 0;
+ file updated
 }
 
   
